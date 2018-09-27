@@ -1,0 +1,7 @@
+Henrys-MacBook-Pro:berger_hwk2 henryberger$ gcc bfile.c -Wall -std=c99 -lm
+Henrys-MacBook-Pro:berger_hwk2 henryberger$ ./a.out
+lat:-117.0 long:32.0 alt:100 name:ABLE id:friend cat:airplane
+lat:-117.0 long:32.5 alt:200 name:BAKER id:foe cat:ground
+lat:-118.0 long:32.6 alt:0 name:CAT id:neutral cat:ship
+lat:-120.0 long:33.0 alt:-10 name:DOWN id:foe cat:ship engaged
+Henrys-MacBook-Pro:berger_hwk2 henryberger$ 
